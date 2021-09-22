@@ -51,14 +51,14 @@ Methods :-
 
 ##  Array
 ### 10. LPUSH
-push in left of array.
+      push in left of array.
       push in left of array.
 
 ### 11. RPUSH
-push in right of array.
+    push in right of array.
 
 ### 12. LPOP
-pop to left of array.
+    pop to left of array.
 
 ### 13. RPOP
       pop to right of array.
@@ -72,24 +72,24 @@ pop to left of array.
 ## SET
 
 ### 15. SADD
-Add in set.
-" SADD setName value"
+      Add in set.
+      " SADD setName value"
 
 ### 16. SMEMBERS
-It will prints all members of set.
- "SMEMBERS setName"
+      It will prints all members of set.
+     "SMEMBERS setName"
 
 ### 17. HSET
-" HSET objName keyName value"
+    " HSET objName keyName value"
 
 ### 18. HGET
-"Get value"
+    "Get value"
 
 ### 19. HGETALL
-"Get all value"
+    "Get all value"
 
 ### 20. HDEL
-"Delete a key of object."
+    "Delete a key of object."
 
 ### 21. HEXISTS
-check key exists in object or not.
+      check key exists in object or not.
